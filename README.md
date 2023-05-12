@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdaus</h1>
 <h3 align="center">Someone who's learning coding</h3>
 
-- 🌱 I’m currently learning **HTML, C++**
+- 🌱 I’m currently learning **HTML, C++, Java**
 
 - 📫 How to reach me **mraihanf11@gmail.com**
 
