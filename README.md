@@ -23,6 +23,7 @@
     </tr>
     </table>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RFirdaus21&show_icons=true&theme=dark&locale=en&layout=compact" alt="vinaapatricia" /></p>
 
 
 <!---
