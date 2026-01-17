@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdaus</h1>
 <h3 align="center">Someone who's learning about programming</h3>
 
-- 🌱 I’m currently learning **HTML, Kotlin**
+- 🌱 I’m currently learning **Backend (PERN Stack)**
 
 - 📫 How to reach me **mraihanf11@gmail.com**
 
